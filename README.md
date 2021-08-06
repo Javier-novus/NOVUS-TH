@@ -17,12 +17,18 @@
 * _Debes clonarlo en tu HOME de usuario normal para funcionar_
 
 ```sh
-  git clone https://github.com/jcmod/NOVUS-TH.git```
+  git clone https://github.com/jcmod/NOVUS-TH.git
+  ```
 
-* _Entra a la herramienta:_
-```cd NOVUS-TH
+
+* _Entra a la herramienta_
+
+```sh
+  cd NOVUS-TH
 ```
+
 * _Ejecuta el instalador:_
+
 ```sh
    bash install.sh
    (Si usas KALI con proot-distro ejecuta: bash install-kali-proot.sh)
